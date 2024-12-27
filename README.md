@@ -4,7 +4,7 @@
 
 
 This guided project, provided by DataCamp, involves analyzing pre-prepared data to extract insights about video game sales, as well as user and critic reviews. The primary objective is to explore the world of video games by addressing key questions and deriving meaningful insights from the analysis.
-<img src="[https://img.freepik.com/free-vector/set-objects-related-video-games-neon-linear-style_24908-58670.jpg?w=1380&t=st=1675376871~exp=1675377471~hmac=364fe80b35699101a47dcf53d29391555c393215382a26e4bf81e04615c86940](https://br.freepik.com/imagem-ia-premium/pixel-art-console-de-videogame-antigo-em-fundo-de-paisagem-em-estilo-retro-para-ai-de-jogo-de-8-bits_63218095.htm)">
+<img src="[https://img.freepik.com/free-vector/set-objects-related-video-games-neon-linear-style_24908-58670.jpg?w=1380&t=st=1675376871~exp=1675377471~hmac=364fe80b35699101a47dcf53d29391555c393215382a26e4bf81e04615c86940">
 
 - - - -
 
